@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "ToggleAircraftLines",
+    "Type": 1,
+    "Category": "Debug",
+    "AssignedId": -1
+  },
+  {
+    "Name": "ToggleGroundLines",
+    "Type": 1,
+    "Category": "Debug",
+    "AssignedId": -1
+  },
+  {
+    "Name": "ToggleShipLines",
+    "Type": 1,
+    "Category": "Debug",
+    "AssignedId": -1
+  },
+  {
+    "Name": "ToggleMissileLines",
+    "Type": 1,
+    "Category": "Debug",
+    "AssignedId": -1
+  },
+  {
+    "Name": "ToggleCruiseMissileLines",
+    "Type": 1,
+    "Category": "Debug",
+    "AssignedId": -1
+  }
+]

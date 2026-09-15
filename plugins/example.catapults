@@ -1,0 +1,5 @@
+# Hello you curious thing. If you're a modder wanting to make your aircraft work with my catapults, follow the below format in a plaintext file with the suffix .catapults in this folder. :)
+# The clutch transform should be at the very bottom of your nose wheel! It is the reference point the catapult uses to lock the aircraft in place. Hashes are comment lines. 
+# definition name | clutch parent | clutch transform position | detection radius | release speed m/s | max accel g | full throttle delay s | should deploy blast deflectors | optional launch bar | launch bar deployed angle | launch bar deploy speed
+# external .catapults files override embedded defaults when they use the same definition name
+# SmallFighter1 | intake | 0, -1.294, 0.219 | 0.25 | 90 | 5 | 0.5 | true
